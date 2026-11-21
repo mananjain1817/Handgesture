@@ -120,3 +120,4 @@ This project combines computer vision and machine learning to create a real-time
 MediaPipe is used for hand landmark detection and SVM is used for gesture classification. The recognized gestures are then mapped to different actions on the laptop.
 
 The final model achieved an independent test accuracy of 91.67%.
+NRJK6E
